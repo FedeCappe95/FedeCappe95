@@ -1,5 +1,7 @@
 ### Hi there, I'm Cappe 👋
 
+<br />
+
 ## Something about me
 
 - 🎓 Student in [Computer Engineering - Cybersecuruty at University of Pisa](https://computer.ing.unipi.it/ce-lm)
@@ -10,7 +12,18 @@
 - ⚡ Add the passion for electronics...
 - 🤯 Yep, I'm also that kind of guy who plays with an Arduino!
 
-### Beyond my repositories
+<br />
+
+## Beyond my repositories
+### Bachelor's Degree: Ingegneria Informatica
+University of Pisa. Final Mark: 110/110.<br />
+• Thesis: "Implementazione su piattaforma NetLogo dell'algoritmo Particle Swarm Optimization for Robot Recruitment (PSO-RR)"
+
+### Master Degree: Computer Engineering, Cybersecurity
+Univeristy of Pisa. (No final mark, I'm playing now)<br />
+• Thesis: "Distributed intrusion detection in cloud data centers"
+
+### Other stuff
 - Web developer
 - Projects in large-scale databases and cloud computing technologies
 - CappeKernel (my own kernel for AMD64 computers for educational purposes)
