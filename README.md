@@ -16,11 +16,11 @@
 
 ## Beyond my repositories
 ### Bachelor's Degree: Ingegneria Informatica
-University of Pisa. Final Mark: 110/110.<br />
+University of Pisa. Final mark: 110/110.<br />
 • Thesis: "Implementazione su piattaforma NetLogo dell'algoritmo Particle Swarm Optimization for Robot Recruitment (PSO-RR)"
 
 ### Master Degree: Computer Engineering, Cybersecurity
-Univeristy of Pisa. (No final mark, I'm playing now)<br />
+Univeristy of Pisa. Final mark: 110/110 L<br />
 • Thesis: "Distributed intrusion detection in cloud data centers"
 
 ### Other stuff
